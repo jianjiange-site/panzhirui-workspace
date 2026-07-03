@@ -1,4 +1,5 @@
-# panzhirui-workspace
+
+.000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000# panzhirui-workspace
 
 学员个人 workspace 仓库，对应 `jianjiange-site` 组织下 dating 后端项目的个人开发空间。
 包含 `dating-server`（Java 微服务 monorepo）、`ai-chat`（Python 数字人服务）、`proto`（gRPC 接口契约）三个子目录。
@@ -36,6 +37,7 @@
 - [`docs/payment-service-design.md`](docs/payment-service-design.md) — 支付服务设计
 - [`docs/mobile-gateway-design.md`](docs/mobile-gateway-design.md) — BFF 网关设计
 - [`docs/local-infra-setup.md`](docs/local-infra-setup.md) — 在本机用 Docker 起一套自用中间件
+- [`docs/development-roadmap.md`](docs/development-roadmap.md) — 服务间依赖关系与推荐开发顺序
 
 ## 硬约束（违反一票否决）
 
